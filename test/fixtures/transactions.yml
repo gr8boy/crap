@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  date: 2010-08-28 15:38:32
+  transaction_id: 1
+  register_id: 1
+
+two:
+  date: 2010-08-28 15:38:32
+  transaction_id: 1
+  register_id: 1
