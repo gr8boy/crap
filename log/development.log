@@ -221,3 +221,27 @@ Processing PosController#index (for 127.0.0.1 at 2010-08-28 14:24:30) [GET]
 Rendering template within layouts/pos
 Rendering pos/index
 Completed in 46ms (View: 37, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PosController#index (for 127.0.0.1 at 2010-08-28 15:01:11) [GET]
+Rendering template within layouts/pos
+Rendering pos/index
+Completed in 98ms (View: 88, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PosController#index (for 127.0.0.1 at 2010-08-28 15:02:15) [GET]
+Rendering template within layouts/pos
+Rendering pos/index
+Completed in 126ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PosController#index (for 127.0.0.1 at 2010-08-28 15:02:17) [GET]
+Rendering template within layouts/pos
+Rendering pos/index
+Completed in 14ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PosController#index (for 127.0.0.1 at 2010-08-28 15:02:47) [GET]
+Rendering template within layouts/application
+Rendering pos/index
+Completed in 31ms (View: 23, DB: 0) | 200 OK [http://localhost/]
